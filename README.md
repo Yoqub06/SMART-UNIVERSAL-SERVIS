@@ -263,13 +263,12 @@ psql -U postgres home_services_bot < backup.sql
 ## 📞 Yordam
 
 Muammolar yoki savollar bo'lsa:
-- GitHub Issues: Create new issue
-- Email: support@example.com
-
+- Email: yoquballayev@example.com
+- Telegram: @jacob_0_0_6
 ## 📄 Litsenziya
 
 MIT License
 
 ## 👨‍💻 Muallif
 
-Developed with ❤️ for Uzbekistan
+Developed by JACOB
