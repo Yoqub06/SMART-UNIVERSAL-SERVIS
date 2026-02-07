@@ -1,4 +1,4 @@
-# Telegram Bot - Uy Xizmatlari
+# Telegram Bot - SMART-UNIVERSAL-SERVIS
 
 Production-ready Telegram bot uy xizmatlarini buyurtma qilish uchun.
 
